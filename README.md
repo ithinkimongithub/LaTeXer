@@ -1,3 +1,3 @@
-# Latexer
-Live Latex Editor
-<a href=https://ithinkimongithub.github.io/Latexer/>Latexer Page</a>
+# LaTeXer
+Live LaTeX Editor
+<a href=https://ithinkimongithub.github.io/LaTeXer/>LaTeXer Page</a>
